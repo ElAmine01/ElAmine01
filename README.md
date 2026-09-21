@@ -51,3 +51,7 @@ Mes travaux se concentrent sur le développement full-stack d'applications web e
 > `Java` `JavaFX` <br>
 > Logiciel de gestion d'épreuves de triathlon conçu en équipe. Module de chronométrage incluant la gestion des départs différés, les arrivées par dossard, et la génération de classements avec export PDF. <br>
 > 🔗 *Projet universitaire*
+
+### Mes Stats
+
+[![ElAmine01 GitHub stats](https://github-stats-extended.vercel.app/api?username=ElAmine01)](https://github.com/stats-organization/github-stats-extended)
