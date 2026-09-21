@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mohamed Amine EL KHENCHEF</h1>
-  <p><b>Étudiant passionné par le développement web & logiciel</b></p>
+  <p><b>Étudiant passionné par le développement web & Mobile et bien plus encore</b></p>
   <p><i>Étudiant en 3ème année de BUT Informatique à l'IUT d'Orléans</i></p>
 
   <a href="https://linkedin.com/in/elkhenchef"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
