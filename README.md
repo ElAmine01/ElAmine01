@@ -14,9 +14,8 @@
 
 Je suis étudiant en 3ème année de BUT Informatique à l'IUT d'Orléans[cite: 2].
 
-Mes travaux se concentrent sur le développement full-stack d'applications web et la conception d'outils logiciels performants, avec des applications concrètes allant des plateformes de réservation au modding de jeux vidéo[cite: 2].
+Mes travaux se concentrent sur le développement full-stack d'applications web et mobile, avec des applications concrètes allant des plateformes de réservation a des projets personnels comme le modding de jeux vidéo[cite: 2].
 
-> *"Concevoir des solutions fiables, de l'interface utilisateur jusqu'au cœur du système."*
 
 <br>
 
