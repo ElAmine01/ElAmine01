@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mohamed Amine EL KHENCHEF</h1>
+  <h1>Mohamed-Amine</h1>
   <p><b>Étudiant passionné par le développement web & Mobile et bien plus encore</b></p>
   <p><i>Étudiant en 3ème année de BUT Informatique à l'IUT d'Orléans</i></p>
 
