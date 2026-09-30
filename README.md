@@ -229,29 +229,83 @@ Status: OPEN_TO_OPPORTUNITIES
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
 <img
-  width="450"
+  width="100%"
   height="200"
   src="https://github-readme-stats.vercel.app/api?username=ElAmine01&show_icons=true&hide_border=true&border_radius=16&card_width=450&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&locale=fr&custom_title=Mohamed-Amine%27s%20GitHub%20Stats"
   alt="Statistiques GitHub"
 />
 
+</td>
+
+<td width="50%" align="center" valign="top">
+
 <img
-  width="450"
+  width="100%"
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmine01&layout=compact&langs_count=6&hide_border=true&border_radius=16&card_width=450&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&locale=fr&custom_title=Most%20Used%20Languages"
   alt="Langages les plus utilisés"
 />
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
 
 <img
-  width="900"
+  width="100%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=ElAmine01&hide_border=true&border_radius=16&background=050816&ring=06B6D4&fire=F97316&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="GitHub contribution streak"
+  alt="Série de contributions GitHub"
 />
 
+</td>
+
+</tr>
+</table>
+
 </div>
+
+---
+
+<div align="center">
+
+## `> cat --quotes.txt`
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+> “The best way to predict the future is to create it.”
+
+</td>
+
+<td align="center" width="33%">
+
+> “Any sufficiently advanced magic is indistinguishable from technology.”
+
+</td>
+
+<td align="center" width="33%">
+
+> “Build things that make people say: I didn't know I needed this.”
+
+</td>
+
+</tr>
+</table>
 
 ---
 
