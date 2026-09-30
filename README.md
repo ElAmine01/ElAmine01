@@ -229,13 +229,27 @@ Status: OPEN_TO_OPPORTUNITIES
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ElAmine01&show_icons=true&hide_border=true&border_radius=16&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&locale=fr&custom_title=Mohamed-Amine%27s%20GitHub%20Stats" alt="Statistiques GitHub">
+<img
+  width="450"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=ElAmine01&show_icons=true&hide_border=true&border_radius=16&card_width=450&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&locale=fr&custom_title=Mohamed-Amine%27s%20GitHub%20Stats"
+  alt="Statistiques GitHub"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmine01&layout=compact&hide_border=true&border_radius=16&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&locale=fr&custom_title=Most%20Used%20Languages" alt="Langages les plus utilisés">
+<img
+  width="450"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmine01&layout=compact&langs_count=6&hide_border=true&border_radius=16&card_width=450&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&locale=fr&custom_title=Most%20Used%20Languages"
+  alt="Langages les plus utilisés"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElAmine01&hide_border=true&border_radius=16&background=050816&ring=06B6D4&fire=F97316&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak">
+<img
+  width="900"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ElAmine01&hide_border=true&border_radius=16&background=050816&ring=06B6D4&fire=F97316&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
