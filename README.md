@@ -1,184 +1,270 @@
-<!-- Bannière -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=180&section=header&text=Mohamed-Amine&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Bannière Mohamed-Amine" />
 
-  <h3>Étudiant en informatique • Développeur Web & Mobile</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:312E81,100:06B6D4&height=230&section=header&text=MOHAMED-AMINE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MOBILE%20BUILDER%20%7C%20CODE%20EXPLORER&descAlignY=61&descSize=15&descColor=67E8F9" width="100%" />
 
-  <p>
-    <i>
-      Je conçois des applications modernes, utiles et accessibles,
-      du frontend au backend.
-    </i>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&lines=Initializing+Mohamed-Amine.exe...;Student+in+BUT+Computer+Science;Building+web+%26+mobile+experiences;Turning+ideas+into+functional+products;Exploring+code%2C+systems+%26+game+modding;Welcome+to+my+digital+workspace+%F0%9F%91%8B" alt="Animation de présentation" />
 
-  <p>
-    <a href="https://linkedin.com/in/elkhenchef">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:elkhenchef@outlook.fr">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/ElAmine01">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=ElAmine01&label=Visiteurs&color=2563EB&style=flat-square" alt="Nombre de visiteurs">
+<a href="https://linkedin.com/in/elkhenchef">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:elkhenchef@outlook.fr">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/ElAmine01">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ElAmine01&label=PROFILE%20VISITS&color=06B6D4&style=for-the-badge" alt="Visiteurs du profil">
+
 </div>
 
 ---
 
-## 👋 À propos de moi
+<div align="center">
 
-Je m'appelle **Mohamed-Amine**, étudiant en **3ᵉ année de BUT Informatique à l'IUT d'Orléans**.
+## `> whoami`
 
-Je m'intéresse principalement au développement **full-stack**, au développement mobile et à la conception de solutions répondant à des besoins concrets.
+</div>
 
-J'aime particulièrement :
+```yaml
+name: Mohamed-Amine
+location: Orléans, France
+education: 3ème année de BUT Informatique — IUT d'Orléans
 
-- concevoir des interfaces modernes et intuitives ;
-- développer des applications web et mobiles ;
-- travailler sur des projets en équipe ;
-- explorer le fonctionnement interne des logiciels ;
-- apprendre de nouvelles technologies.
+focus:
+  - Développement full-stack
+  - Applications mobiles
+  - Architecture logicielle
+  - Interfaces modernes
+  - Rétro-ingénierie & modding
 
-> Actuellement à la recherche de nouvelles opportunités, de projets intéressants et de collaborations.
+currently_learning:
+  - Conception d'applications robustes
+  - Déploiement cloud
+  - Expériences utilisateur modernes
+
+mission: "Transformer une idée en produit utile, propre et fonctionnel."
+```
+
+<div align="center">
+
+> Étudiant développeur passionné, je construis des applications web et mobiles tout en explorant les systèmes, le logiciel et les univers qui se cachent derrière nos écrans.
+
+</div>
 
 ---
 
-## 🧰 Technologies & outils
+<div align="center">
 
-### 💻 Langages
+## `> system --status`
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-</p>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Esprit
+
+- Curieux par nature
+- Orienté solution
+- Attentif à l'expérience utilisateur
+- Toujours en train d'apprendre
+- À l'aise en équipe comme en autonomie
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Énergie actuelle
+
+```text
+[██████████████████░░] 90%  Curiosity
+[████████████████░░░░] 80%  Full-stack
+[███████████████░░░░░] 75%  Mobile
+[██████████████░░░░░░] 70%  Systems
+[██████████████████░░] 90%  Coffee
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> load --technologies`
+
+### 🧬 Langages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,dart&theme=dark" alt="Langages">
 
 ### 🌐 Web & Mobile
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,flutter&theme=dark" alt="Technologies web et mobile">
 
-### 🗄️ Backend & bases de données
+### 🗄️ Backend & Data
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
+<img src="https://skillicons.dev/icons?i=flask,postgres,supabase,mariadb&theme=dark" alt="Backend et bases de données">
 
-### 🛠️ Outils
+### 🛠️ Outils & environnement
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Pages">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cloudflare&theme=dark" alt="Outils">
+
+</div>
 
 ---
 
-## 🚀 Projets principaux
+<div align="center">
 
-### 🗺️ [Minimap for SnowRunner](https://github.com/ElAmine01/Minimap-For-SnowRunner)
+## `> access --projects`
 
-**C++ · DirectX 11 · Rétro-ingénierie**
+</div>
 
-Plugin permettant d'ajouter une mini-carte directement dans le jeu **SnowRunner**.
+<table>
+<tr>
 
-- récupération des coordonnées du véhicule en temps réel ;
-- analyse de la mémoire du jeu ;
-- injection de code dans le pipeline de rendu ;
-- affichage d'une interface personnalisée en jeu.
+<td width="50%" valign="top">
 
----
+<h3>🗺️ Minimap for SnowRunner</h3>
 
-### 🚗 Plateforme web pour auto-école
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/DirectX_11-111827?style=flat-square&logo=microsoft&logoColor=67E8F9">
+<img src="https://img.shields.io/badge/Reverse_Engineering-111827?style=flat-square&logo=hackthebox&logoColor=A78BFA">
+</p>
 
-**Vue.js · Supabase · Tailwind CSS · Make.com**
+Plugin ajoutant une mini-carte en jeu pour améliorer l'orientation dans SnowRunner.
 
-Développement d'une plateforme web réalisée dans le cadre d'un stage professionnel.
+Analyse de la mémoire, récupération des coordonnées du véhicule et injection de code dans le rendu.
 
-- création d'un site vitrine ;
-- système de réservation en ligne ;
-- intégration d'un chatbot ;
-- connexion avec Trello ;
-- déploiement automatisé sur Cloudflare Pages.
+<br>
 
-> Projet professionnel réalisé en stage.
+<a href="https://github.com/ElAmine01/Minimap-For-SnowRunner">
+<img src="https://img.shields.io/badge/EXPLORER_LE_PROJET-06B6D4?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+</td>
 
-### ⏱️ TriSLN — Chrono AquaNeutron
+<td width="50%" valign="top">
 
-**Java · JavaFX**
+<h3>🚗 Plateforme pour auto-école</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8">
+</p>
+
+Plateforme web développée en stage : site vitrine, système de réservation, chatbot connecté à Trello et automatisation via Make.com.
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJET_PROFESSIONNEL-312E81?style=for-the-badge&logo=briefcase&logoColor=white">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⏱️ TriSLN — Chrono AquaNeutron</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/JavaFX-111827?style=flat-square&logo=java&logoColor=67E8F9">
+</p>
 
 Application de gestion d'épreuves de triathlon développée en équipe.
 
-- gestion des départs différés ;
-- enregistrement des arrivées par numéro de dossard ;
-- génération automatique des classements ;
-- export des résultats au format PDF.
-
-> Projet universitaire réalisé en équipe.
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElAmine01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=fr" alt="Statistiques GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmine01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=fr" alt="Langages les plus utilisés">
-</div>
+Gestion des départs différés, arrivées par dossard, classements et export PDF.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElAmine01&theme=tokyonight&hide_border=true&border_radius=12&locale=fr" alt="Série de contributions GitHub">
-</div>
+<img src="https://img.shields.io/badge/PROJET_UNIVERSITAIRE-312E81?style=for-the-badge&logo=bookstack&logoColor=white">
 
----
+</td>
 
-## 📈 Activité récente
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElAmine01&theme=tokyo-night&hide_border=true&radius=12" alt="Graphique d'activité GitHub">
-</div>
+<h3>🔭 Prochaine destination</h3>
 
----
+```text
+Searching for new challenges...
 
-## 📫 Me contacter
+> web applications
+> mobile products
+> creative collaborations
+> internships & opportunities
+> ambitious technical projects
 
-Tu as un projet, une idée ou une opportunité à me proposer ?
-
-<div align="center">
-  <a href="mailto:elkhenchef@outlook.fr">
-    <img src="https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Me contacter par email">
-  </a>
-  <a href="https://linkedin.com/in/elkhenchef">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn">
-  </a>
-</div>
+Status: OPEN_TO_OPPORTUNITIES
+```
 
 <br>
 
+<a href="mailto:elkhenchef@outlook.fr">
+<img src="https://img.shields.io/badge/ME_CONTACTER-06B6D4?style=for-the-badge&logo=minutemailer&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <i>Merci de visiter mon profil ! ⭐</i>
+
+## `> git --stats`
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ElAmine01&show_icons=true&hide_border=true&border_radius=16&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&locale=fr&custom_title=Mohamed-Amine%27s%20GitHub%20Stats" alt="Statistiques GitHub">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAmine01&layout=compact&hide_border=true&border_radius=16&bg_color=050816&title_color=67E8F9&text_color=CBD5E1&locale=fr&custom_title=Most%20Used%20Languages" alt="Langages les plus utilisés">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElAmine01&hide_border=true&border_radius=16&background=050816&ring=06B6D4&fire=F97316&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak">
+
 </div>
 
-<!-- Footer -->
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" alt="Footer">
+
+## `> connect --with Mohamed-Amine`
+
+<br>
+
+<a href="mailto:elkhenchef@outlook.fr">
+<img src="https://img.shields.io/badge/EMAIL-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://linkedin.com/in/elkhenchef">
+<img src="https://img.shields.io/badge/LINKEDIN-Find_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/ElAmine01">
+<img src="https://img.shields.io/badge/GITHUB-Explore_my_code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<p>
+Thanks for stopping by. If you like what you see, consider leaving a ⭐
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:312E81,70:111827,100:050816&height=130&section=footer" width="100%" />
+
 </div>
